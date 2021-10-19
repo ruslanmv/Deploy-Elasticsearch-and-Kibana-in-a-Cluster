@@ -548,11 +548,11 @@ from there we can see
 and
 
 ```
- [master-1] added {{node-1}
+ [master-1] added node-1
 ```
 
 ```
- [master-1] added {{node-2}
+ [master-1] added node-2
 ```
 
 
